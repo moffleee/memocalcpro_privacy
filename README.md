@@ -1,0 +1,2 @@
+# memocalcpro_privacy
+MemocalAppのユーザー向けプライバシーポリシーページ
